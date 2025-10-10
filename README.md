@@ -21,8 +21,8 @@ Step 5:Generate Confusion Matrix
 ```
 /*
 Program to implement the prediction of iris species using SGD Classifier.
-Developed by:Ramya G 
-RegisterNumber: 24003270 
+Developed by:A MUHILAN 
+RegisterNumber: 25015918 
 
 
 import pandas as pd
